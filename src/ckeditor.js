@@ -114,7 +114,6 @@ Editor.defaultConfig = {
 			'imageInsert',
 			'insertTable',
 			'mediaEmbed',
-			'sourceEditing',
 			'|',
 			'undo',
 			'redo'
